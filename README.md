@@ -1,6 +1,6 @@
 # JWT API
 
-Example API that shows how to implement JSON Web Token authentication and authorization with ASP.NET Core 3.1, this is an upgrade of the original project [evgomes/jwt-api](https://github.com/evgomes/jwt-api)
+Example API that shows how to implement JSON Web Token authentication and authorization with ASP.NET Core 3.1, this is an upgrade of the original project [evgomes/jwt-api](https://github.com/evgomes/jwt-api).
 
 ### Features
  - User registration;

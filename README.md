@@ -1,6 +1,6 @@
 # JWT API
 
-Example API that shows how to implement JSON Web Token authentication and authorization with ASP.NET Core 2.0, built from scratch.
+Example API that shows how to implement JSON Web Token authentication and authorization with ASP.NET Core 3.1, this is an upgrade of the original project [evgomes/jwt-api](https://github.com/evgomes/jwt-api)
 
 ### Features
  - User registration;
@@ -15,6 +15,7 @@ Example API that shows how to implement JSON Web Token authentication and author
 The API uses the following libraries and frameworks to deliver the functionalaties described above:
  - [Entity Framewok Core](https://github.com/aspnet/EntityFrameworkCore) (for data access)
  - [AutoMapper](https://github.com/AutoMapper/AutoMapper) (for mapping between domain entities and resource classes)
+ - [Swashbuckle.AspNetCore Version 5.0.0-rc4](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-3.1&tabs=visual-studio) (for API document generation and to provide a "poor man's UI" for manual testing)
  
 ### How to test
 
